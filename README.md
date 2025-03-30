@@ -1,3 +1,7 @@
 # conflict-exercise
-Repositorio de la actividad 3
+
+
 Added a different line in main branch
+
+Este es un cambio en la feature branch
+
